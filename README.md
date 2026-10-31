@@ -16,7 +16,7 @@
 
 ## 安装
 
-从 Releases 下载 `Verso-版本号-setup.exe`。安装时可自选安装路径。
+从 Releases 下载 `Verso-版本号-setup.exe`。
 
 ## 数据
 
